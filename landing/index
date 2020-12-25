@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Essen</title>
+    <meta charset="utf-8">
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="dFWU86dnGFCHf1Lmq1dTU3bf0uQ3b/QcWbsUMpcfaVM20jhIe7vDA8wgjEVZYlLyU9z6Yaq4XsgYVJOWn0e5ZQ==" />
+
+
+<!-- if notice -->
+ <!-- notice  -->
+ <!-- end  -->
+
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <!-- <link rel="javascript" href="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/ScrollMagic.min.js"> -->
+
+
+
+
+    <link rel="stylesheet" media="all" href="../assets/application.debug-b38ccb961b8865dd13c9d8a0134ce8a69d4ffec3736ac4b375ade6a5ecd491ab.css" data-turbolinks-track="reload" />
+    <script src="../packs/js/application-bb4bfb0fd20ebbe63c07.js" data-turbolinks-track="reload"></script>
+    <script src="http://cdn.ckeditor.com/4.11.3/standard/ckeditor.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/ScrollMagic.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/plugins/debug.addIndicators.min.js"></script>
+  </head>
+
+  <body>
+    <div class="top_menu">
+      <img class="top_menu__logo" src="../assets/logo-bw-d9faa72d0cf4d57999310cbca69d0b8aaa939d737deea6d95f85b259f0216e35.svg" />
+      <a href="http://localhost:3000/posts?category=%D0%97%D0%B0%D0%B2%D1%82%D1%80%D0%B0%D0%BA%D0%B8">Завтраки</a>
+      <a href="http://localhost:3000/posts?category=%D0%9E%D0%B1%D0%B5%D0%B4%D1%8B">Обеды</a>
+      <a href="http://localhost:3000/posts?category=%D0%A3%D0%B6%D0%B8%D0%BD%D1%8B">Ужины</a>
+
+      <a href="http://localhost:3000/users/sign_in">Войти</a>  <a href="http://localhost:3000/users/sign_up">Зарегистрироваться</a>
+
+    </div>
+    <!DOCTYPE html>
+<html lang="ru" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Essen</title>
+  </head>
+  <body>
+    <section class="section__one">
+      <img class="logo-bw" src="../assets/logo-bw-d9faa72d0cf4d57999310cbca69d0b8aaa939d737deea6d95f85b259f0216e35.svg" />
+      <img class="section__one__img" src="../assets/text1-8670a1a58a3eb8efe56f8c98a8f1c7d0a2e47725cfd036c0d43ff48214a39af5.svg" />
+      <img class="section__one__img__2" src="../assets/text2-c24f932d40df9767b96bd4d2a12a80be493bbcf17956e9cf6237a88c25d7e49b.svg" />
+      <p>Сборник кулинарных рецептов с&nbsp;гибкой заменой ингредиентов</p>
+      <a href="index#">Перейти</a>
+      <div class="section__one__div">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+    </section>
+
+    <section class="section__two">
+      <h2>Essen&nbsp;&mdash; кулинарная книга, подстраивающая ингредиенты под ваши требования выбора еды. Главное отличие от&nbsp;кулинарного сайта&nbsp;&mdash; мы&nbsp;предлагаем <span>гибкую замену ингредиентов</span> в&nbsp;рецепте.</h2>
+    </section>
+
+    <section class="section__three">
+      <script src="../packs/js/application-bb4bfb0fd20ebbe63c07.js" data-turbolinks-track="reload"></script>
+      <h1>Essen cоздан чтобы помогать вам!</h1>
+      <img class="section__three__img" src="../assets/shape-star-f22e8aadc9cebcf90c46b79c602e8d89ef23089f15f77492ef42c71c44b10927.svg" />
+    </section>
+
+    <section class="section__four">
+      <div class="section__four__one">
+        <h2>Заменяйте ингредиенты в&nbsp;рецептах под ваши предпочтения</h2>
+      </div>
+
+      <div class="section__four__two">
+        <h2>Выбирайте из&nbsp;рецептов, подобранных под&nbsp;вас</h2>
+      </div>
+
+      <div class="section__four__three">
+        <h2>Экономьте время на&nbsp;поиске рецепта с&nbsp;заменой продуктов</h2>
+      </div>
+
+      <div class="section__four__four">
+        <h2>Сохраняйте рецепты в&nbsp;индивидуа&shy;льные подборки</h2>
+      </div>
+    </section>
+
+    <section class="section__five">
+      <div class="section__five__div">
+        <img class="section__five__div__img" src="../assets/shape-inverse-03d1d73e2c55e8267cb1fb43d8e311dd2d002a9fac820afd605ef94b29a4f7d4.svg" />
+      </div>
+      <div class="section__five__h2">
+        <h2>Когда сервис поможет?</h2>
+        <h2>При отсутствии некоторых ингредиентов дома</h2>
+        <h2>Если ингредиент не&nbsp;соответствует вашим этическим, идеологическим требованиям</h2>
+        <h2>Когда не&nbsp;хочется выходить в&nbsp;магазин за&nbsp;покупкой продуктов</h2>
+        <h2>Во&nbsp;время необходимости приготовления опредленного рецепта</h2>
+        <h2>Решить чем&nbsp;же поужинать сегодня</h2>
+        <h2>Вместе с&nbsp;друзьями выбрать блюдо, понравившееся всем</h2>
+      </div>
+    </section>
+
+    <section class="section__six">
+      <h1>Вам не&nbsp;стоит беспокоиться за&nbsp;качество блюд</h1>
+      <p>Все рецепты и&nbsp;замены мы&nbsp;составили и&nbsp;подобрали вместе с&nbsp;кулинарными технологами</p>
+      <img class="section__six__img" src="../assets/plate-purple-58484c9c8e199c11cb2f92ce9c9a281bf518b146033291474e8679052ceab088.png" />
+    </section>
+
+    <section class="section__seven">
+      <h1>Вы&nbsp;являетесь владельцем заведения?</h1>
+      <p>Сделаем так, чтобы о&nbsp;вашем ресторане или кафе узнало еще больше людей, которые будут готовить по&nbsp;вашим рецептам!</p>
+      <img class="section__seven__img" src="../assets/photo-star-43ecf436beca7c99a3813ca48ca919e7a170df58f2b2cd5c37f4a0d0de66324b.png" />
+      <a href="http://localhost:3000/partners/index">Подробнее</a>
+    </section>
+
+    <section class="section__eight">
+      <h2>Вам осталось только приготовить, остальное мы&nbsp;уже продумали за&nbsp;вас!</h2>
+      <a href="index#">Перейти</a>
+    </section>
+
+    <section class="section__nine">
+      <img class="section__nine__img" src="../assets/logo-color-d08521c329aa90ffd211b235dd5b68e4cccfcb3f266ab5c22038015430345def.svg" />
+      <p>Сборник кулинарных рецептов с&nbsp;гибкой заменой ингредиентов</p>
+      <div class="section__nine__a">
+        <a href="index#">О сервисе</a>
+        <a href="index#">Партнерам</a>
+        <a href="index#">Facebook</a>
+        <a href="index#">Instagram</a>
+      </div>
+    </section>
+  </body>
+</html>
+
+  </body>
+</html>
