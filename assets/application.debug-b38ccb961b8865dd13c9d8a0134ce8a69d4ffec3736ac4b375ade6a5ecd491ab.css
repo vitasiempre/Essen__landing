@@ -5,6 +5,10 @@
   font-weight: bold;
 }
 
+a {
+  text-decoration: none;
+}
+
 /* line 18, app/assets/stylesheets/about.scss */
 span {
   border-radius: 100px;
